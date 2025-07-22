@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 **Olá, eu sou Ederson Tenorio**  
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **Olá, eu sou Ederson Tenorio**  
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela UniCesumar.
 
 <div align="center">
