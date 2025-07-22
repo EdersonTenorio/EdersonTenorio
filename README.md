@@ -1,4 +1,4 @@
-# 🚀 **Olá, eu sou Ederson Tenorio**  
+# 🧑🏻‍💻 **Olá, eu sou Ederson Tenorio**  
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela UniCesumar.
 
 <div align="center">
