@@ -54,13 +54,14 @@
 
 ## **📊 Estatísticas do GitHub**  
 
+<div>
 <a href="https://github.com/EdersonTenorio">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdersonTenorio&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdersonTenorio&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdersonTenorio&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdersonTenorio&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdersonTenorio&theme=aura" height="180em" />
-
+</div>
 ---
 
 <div align="center">
