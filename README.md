@@ -13,6 +13,10 @@
   </a>
 </div>
 
+<div align="center" style="display: inline_block"><br>
+  <img src="https://komarev.com/ghpvc/?username=EdersonTenorio&color=blueviolet" alt="Profile Views">
+</div>
+
 ---
 
 ## **🛠️ Tech Stack**  
@@ -35,7 +39,6 @@
   <img align="center" alt=".Net" title="dot net" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
   <img align="center" alt="React" title="React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="NodeJs" title="Node.js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Scrum" title="Scrum" height="40" width="60" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 </div>
 
 ### **Databases & Cloud**  
@@ -62,16 +65,10 @@
 
 ## **📊 GitHub Statistics**  
 
-<div style="display: inline_block"><br>
-<a href="https://github.com/EdersonTenorio">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdersonTenorio&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdersonTenorio&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdersonTenorio&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdersonTenorio&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdersonTenorio&theme=aura" height="180em" />
-</div>
----
+<details>
+  <summary>GitHub Statistics ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=EdersonTenorio&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonTenorio&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
-<div align="center" style="display: inline_block"><br>
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blueviolet" alt="Profile Views">
-</div>
