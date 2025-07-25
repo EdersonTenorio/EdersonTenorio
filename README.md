@@ -42,12 +42,31 @@
 
 ---
 
-## **📊 GitHub Statistics**  
+## **📊 GitHub Analytics Dashboard**  
 
 <details>
   <summary>GitHub Statistics ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=EdersonTenorio&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonTenorio&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<div align="center">
+
+### 🚀 Overview
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=EdersonTenorio&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered">
+
+### 💻 Most Used Programming Languages
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonTenorio&layout=compact&theme=onedark&hide_border=true&langs_count=8">
+
+### 🔥 Contribution Streak
+<img height="220em" src="https://streak-stats.demolab.com?user=EdersonTenorio&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly">
+
+### 🏆 Trophies
+<img height="220em" src="https://github-profile-trophy.vercel.app/?username=EdersonTenorio&theme=onedark&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B">
+
+### 📈 Recent Activity
+<img height="220em" src="https://github-readme-activity-graph.vercel.app/graph?username=EdersonTenorio&theme=onedark&hide_border=true&area=true&custom_title=Atividade%20dos%20Últimos%2030%20Dias">
+
+### 🌟 Advanced Metrics
+[![Metrics](https://github.com/EdersonTenorio/EdersonTenorio/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+
+</div>
 </details>
 
