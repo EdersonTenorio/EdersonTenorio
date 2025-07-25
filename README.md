@@ -50,22 +50,19 @@
 <div align="center">
 
 ### 🚀 Overview
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=EdersonTenorio&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered">
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=EdersonTenorio&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered">
 
 ### 💻 Most Used Programming Languages
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonTenorio&layout=compact&theme=onedark&hide_border=true&langs_count=8">
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonTenorio&layout=compact&theme=blueberry&hide_border=true&langs_count=8">
 
 ### 🔥 Contribution Streak
-<img height="220em" src="https://streak-stats.demolab.com?user=EdersonTenorio&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly">
+<img height="220em" src="https://streak-stats.demolab.com?user=EdersonTenorio&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly">
 
 ### 🏆 Trophies
-<img height="220em" src="https://github-profile-trophy.vercel.app/?username=EdersonTenorio&theme=onedark&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B">
+<img height="220em" src="https://github-profile-trophy.vercel.app/?username=EdersonTenorio&theme=blueberry&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B">
 
 ### 📈 Recent Activity
-<img height="220em" src="https://github-readme-activity-graph.vercel.app/graph?username=EdersonTenorio&theme=onedark&hide_border=true&area=true&custom_title=Atividade%20dos%20Últimos%2030%20Dias">
-
-### 🌟 Advanced Metrics
-[![Metrics](https://github.com/EdersonTenorio/EdersonTenorio/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+<img height="220em" src="https://github-readme-activity-graph.vercel.app/graph?username=EdersonTenorio&theme=blueberry&hide_border=true&area=true&custom_title=Atividade%20dos%20Últimos%2030%20Dias">
 
 </div>
 </details>
