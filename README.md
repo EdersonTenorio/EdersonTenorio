@@ -68,3 +68,4 @@
 </div>
 </details>
 
+![Snake animation](https://github.com/EdersonTenorio/EdersonTenorio/blob/output/github-contribution-grid-snake.svg)
