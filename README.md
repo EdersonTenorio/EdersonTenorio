@@ -3,19 +3,19 @@
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela UniCesumar.
 
-<div align="center" style="display: inline_block"><br>
-    <a href="https://linkedin.com/in/ederson-tenorio-890571220" target="_blank">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center"><br>
+  <a href="https://linkedin.com/in/ederson-tenorio-890571220" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:edersontenorios@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center"><br>
   <img src="https://komarev.com/ghpvc/?username=EdersonTenorio&color=blueviolet" alt="Profile Views">
 </div>
 
