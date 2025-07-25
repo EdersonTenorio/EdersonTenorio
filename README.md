@@ -5,24 +5,19 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center"><br>
   <a href="https://linkedin.com/in/ederson-tenorio-890571220" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:edersontenorios@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/b5vsbpqt97mv22vu8s611u1bf">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center"><br>
   <img src="https://komarev.com/ghpvc/?username=EdersonTenorio&color=blueviolet" alt="Profile Views">
 <a href="https://github.com/EdersonTenorio?tab=followers">
-  <img src="https://img.shields.io/github/followers/EdersonTenorio?label=Followers&color=blueviolet&style=flat-square" alt="GitHub Followers">
-</a>
-<a href="https://open.spotify.com/user/b5vsbpqt97mv22vu8s611u1bf">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-</a>
+  <img src="https://img.shields.io/github/followers/EdersonTenorio?label=Followers&color=blueviolet&style=flat-square" alt="GitHub Followers"></a>
 </div>
 
 ---
