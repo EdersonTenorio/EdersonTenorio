@@ -68,4 +68,4 @@
 </div>
 </details>
 
-[![Spotify](https://spotify-now-playing-git-main-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/b5vsbpqt97mv22vu8s611u1bf)
+![Snake animation](https://github.com/EdersonTenorio/EdersonTenorio/blob/output/github-contribution-grid-snake.svg)
