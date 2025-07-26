@@ -3,7 +3,7 @@
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela UniCesumar.
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center"><br>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center"><br>
   
   ## **🌐 Let's Connect**
   <a href="https://linkedin.com/in/ederson-tenorio-890571220" target="_blank">
@@ -18,7 +18,7 @@
 
 ---
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center"><br>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center"><br>
 
   ## **💻 Tech Stack**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" title="Java"/>
@@ -39,7 +39,7 @@
 
 ---
 
-<div align="center">
+<div align="center"><br>
   
 ## **📊 GitHub Analytics Dashboard**  
 </div>
@@ -47,27 +47,31 @@
 <details>
   <summary>GitHub Statistics ⚡</summary>
   
-<div align="center">
+<div align="center"><br>
 
 ### 🚀 Overview
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=EdersonTenorio&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=EdersonTenorio&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered">
 
 ### 💻 Most Used Programming Languages
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonTenorio&layout=compact&theme=blueberry&hide_border=true&langs_count=8">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonTenorio&layout=compact&theme=blueberry&hide_border=true&langs_count=8">
 
 ### 🔥 Contribution Streak
-<img height="220em" src="https://streak-stats.demolab.com?user=EdersonTenorio&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly">
+<img height="200em" src="https://streak-stats.demolab.com?user=EdersonTenorio&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly">
 
 ### 🏆 Trophies
-<img height="220em" src="https://github-profile-trophy.vercel.app/?username=EdersonTenorio&theme=blueberry&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B">
+<img height="200em" src="https://github-profile-trophy.vercel.app/?username=EdersonTenorio&theme=blueberry&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B">
 
 ### 📈 Recent Activity
-<img height="220em" src="https://github-readme-activity-graph.vercel.app/graph?username=EdersonTenorio&theme=blueberry&hide_border=true&area=true&custom_title=Atividade%20dos%20Últimos%2030%20Dias">
+<img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=EdersonTenorio&theme=blueberry&hide_border=true&area=true&custom_title=Atividade%20dos%20Últimos%2030%20Dias">
 
 </div>
 </details>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center"><br>
+<div align=center><br>
+ <img src="https://raw.githubusercontent.com/EdersonTenorio/EdersonTenorio/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center"><br>
   <img src="https://komarev.com/ghpvc/?username=EdersonTenorio&color=blueviolet" alt="Profile Views">
 <a href="https://github.com/EdersonTenorio?tab=followers">
   <img src="https://img.shields.io/github/followers/EdersonTenorio?label=Followers&color=blueviolet&style=flat-square" alt="GitHub Followers"></a>
