@@ -67,3 +67,5 @@
 
 </div>
 </details>
+
+[![Spotify](https://spotify-now-playing-git-main-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/b5vsbpqt97mv22vu8s611u1bf)
