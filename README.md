@@ -4,6 +4,8 @@
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela UniCesumar.
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center"><br>
+  
+  ## **🌐 Let's Connect**
   <a href="https://linkedin.com/in/ederson-tenorio-890571220" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:edersontenorios@gmail.com">
@@ -14,17 +16,11 @@
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center"><br>
-  <img src="https://komarev.com/ghpvc/?username=EdersonTenorio&color=blueviolet" alt="Profile Views">
-<a href="https://github.com/EdersonTenorio?tab=followers">
-  <img src="https://img.shields.io/github/followers/EdersonTenorio?label=Followers&color=blueviolet&style=flat-square" alt="GitHub Followers"></a>
-</div>
-
 ---
 
-## **🛠️ Tech Stack**  
-
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center"><br>
+
+  ## **💻 Tech Stack**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" title="Go"/>
@@ -43,7 +39,10 @@
 
 ---
 
+<div align="center">
+  
 ## **📊 GitHub Analytics Dashboard**  
+</div>
 
 <details>
   <summary>GitHub Statistics ⚡</summary>
@@ -68,4 +67,8 @@
 </div>
 </details>
 
-![Snake animation](https://github.com/EdersonTenorio/EdersonTenorio/blob/output/github-contribution-grid-snake.svg)
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center"><br>
+  <img src="https://komarev.com/ghpvc/?username=EdersonTenorio&color=blueviolet" alt="Profile Views">
+<a href="https://github.com/EdersonTenorio?tab=followers">
+  <img src="https://img.shields.io/github/followers/EdersonTenorio?label=Followers&color=blueviolet&style=flat-square" alt="GitHub Followers"></a>
+</div>
