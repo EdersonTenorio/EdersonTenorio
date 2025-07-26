@@ -1,0 +1,22 @@
+name: Online Status
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Atualiza a cada 30 minutos
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Status
+        run: |
+          # Script para detectar se você está online (ex: ping em seu IP)
+          ONLINE=$(curl -s https://api.seuservidor.com/status | jq '.online')
+          if [ "$ONLINE" = true ]; then
+            echo "ONLINE" > status.txt
+          else
+            echo "OFFLINE" > status.txt
+          fi
+      - name: Commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
