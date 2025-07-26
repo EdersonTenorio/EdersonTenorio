@@ -1,0 +1,5 @@
+- name: Update Spotify
+  uses: novatorem/spotify-github-profile@main
+  with:
+    SPOTIFY_CLIENT_ID: ${{ secrets.b5vsbpqt97mv22vu8s611u1bf }}
+    SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
