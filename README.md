@@ -69,3 +69,4 @@
 </details>
 
 ![Snake animation](https://github.com/EdersonTenorio/EdersonTenorio/blob/output/github-contribution-grid-snake.svg)
+[![Spotify](https://spotify-now-playing-sepia.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/b5vsbpqt97mv22vu8s611u1bf)
