@@ -16,6 +16,12 @@
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
 
+<div align="center"><br>
+  <img src="https://komarev.com/ghpvc/?username=EdersonTenorio&color=blueviolet" alt="Profile Views">
+<a href="https://github.com/EdersonTenorio?tab=followers">
+  <img src="https://img.shields.io/github/followers/EdersonTenorio?label=Followers&color=blueviolet&style=flat-square" alt="GitHub Followers"></a>
+</div>
+
 ---
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center"><br>
@@ -69,10 +75,4 @@
 
 <div align=center><br>
  <img src="https://raw.githubusercontent.com/EdersonTenorio/EdersonTenorio/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center"><br>
-  <img src="https://komarev.com/ghpvc/?username=EdersonTenorio&color=blueviolet" alt="Profile Views">
-<a href="https://github.com/EdersonTenorio?tab=followers">
-  <img src="https://img.shields.io/github/followers/EdersonTenorio?label=Followers&color=blueviolet&style=flat-square" alt="GitHub Followers"></a>
 </div>
