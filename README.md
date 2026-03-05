@@ -1,7 +1,7 @@
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **Olá, eu sou Ederson Tenorio**  
-**`Desenvolvedor de Software`**
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **Hi, I'm Ederson Tenorio**  
+**`Back-end Developer`**
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela UniCesumar.
+- 🎓 Graduated in **Systems Analysis and Development** from UniCesumar.
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center"><br>
   
