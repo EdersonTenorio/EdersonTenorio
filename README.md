@@ -13,6 +13,14 @@ continuously learning new technologies.
 
 ---
 
+# 🎯 Goals
+- Become a Java Backend Specialist
+- Master Spring Boot
+- Contribute to Open Source
+- Build SaaS Projects
+
+---
+
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center"><br>
   
 ## 🌐 Let's Connect
