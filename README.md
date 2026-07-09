@@ -1,11 +1,23 @@
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **Hi, I'm Ederson Tenorio**  
-**`Back-end Developer`**
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 👋 Hi, I'm Ederson Tenorio
 
-- 🎓 Graduated in **Systems Analysis and Development** from UniCesumar.
+Passionate about building scalable APIs, solving real-world problems and
+continuously learning new technologies.
+
+---
+
+## 👤 About Me
+- 💻 Backend Developer focused on Java, JavaScript, TypeScript and Python
+- 🎓 Systems Analysis and Development Graduate
+- 🛠️ Passionate about clean architecture and REST APIs
+- 📍 Brazil
+
+---
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center"><br>
   
-  ## **🌐 Let's Connect**
+## 🌐 Let's Connect
+  <a href="https://linkedin.com/in/ederson-tenorio-890571220" target="_blank">
+    <img src="https://img.shields.io/badge/github-repo-blue?logo=github"></a>
   <a href="https://linkedin.com/in/ederson-tenorio-890571220" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:edersontenorios@gmail.com">
@@ -26,7 +38,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center"><br>
 
-  ## **💻 Tech Stack**  
+## 💻 Tech Stack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" title="Go"/>
@@ -47,7 +59,7 @@
 
 <div align="center"><br>
   
-## **📊 GitHub Analytics Dashboard**  
+## 📊 GitHub Analytics Dashboard
 </div>
 
 <details>
@@ -55,19 +67,19 @@
   
 <div align="center"><br>
 
-### 🚀 Overview
+## 🚀 Overview
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EdersonTenorio&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered">
 
-### 💻 Most Used Programming Languages
+## 💻 Most Used Programming Languages
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonTenorio&layout=compact&theme=blueberry&hide_border=true&langs_count=8">
 
-### 🔥 Contribution Streak
+## 🔥 Contribution Streak
 <img height="200em" src="https://streak-stats.demolab.com?user=EdersonTenorio&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly">
 
-### 🏆 Trophies
+## 🏆 Trophies
 <img height="200em" src="https://github-profile-trophy.vercel.app/?username=EdersonTenorio&theme=blueberry&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B">
 
-### 📈 Recent Activity
+## 📈 Recent Activity
 <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=EdersonTenorio&theme=blueberry&hide_border=true&area=true&custom_title=Atividade%20dos%20Últimos%2030%20Dias">
 
 </div>
