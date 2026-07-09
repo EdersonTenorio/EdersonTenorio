@@ -16,7 +16,7 @@ continuously learning new technologies.
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center"><br>
   
 ## 🌐 Let's Connect
-  <a href="https://linkedin.com/in/ederson-tenorio-890571220" target="_blank">
+  <a href="https://github.com/EdersonTenorio?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/github-repo-blue?logo=github"></a>
   <a href="https://linkedin.com/in/ederson-tenorio-890571220" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
