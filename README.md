@@ -65,32 +65,39 @@ continuously learning new technologies.
 
 <div align="center"><br>
   
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 </div>
 
-<details>
-  <summary>GitHub Statistics ⚡</summary>
-  
 <div align="center"><br>
 
-## 🚀 Overview
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=EdersonTenorio&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered">
+## 🚀 GitHub Stats
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=EdersonTenorio&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-## 💻 Most Used Programming Languages
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonTenorio&layout=compact&theme=blueberry&hide_border=true&langs_count=8">
+## 💻 Most Used Languages
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonTenorio&layout=compact&theme=github_dark&hide_border=true"/>
 
 ## 🔥 Contribution Streak
-<img height="200em" src="https://streak-stats.demolab.com?user=EdersonTenorio&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly">
+<img height="180em"
+src="https://streak-stats.demolab.com?user=EdersonTenorio&theme=github-dark&hide_border=true"/>
 
 ## 🏆 Trophies
-<img height="200em" src="https://github-profile-trophy.vercel.app/?username=EdersonTenorio&theme=blueberry&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B">
+<img height="180em"
+src="https://github-profile-trophy.vercel.app/?username=EdersonTenorio&theme=algolia&no-frame=true&row=1&column=6"/>
 
-## 📈 Recent Activity
-<img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=EdersonTenorio&theme=blueberry&hide_border=true&area=true&custom_title=Atividade%20dos%20Últimos%2030%20Dias">
+## 📈 Activity Graph
+<img height="200em"
+src="https://github-readme-activity-graph.vercel.app/graph?username=EdersonTenorio&theme=github-dark&hide_border=true"/>
 
 </div>
-</details>
 
 <div align=center><br>
  <img src="https://raw.githubusercontent.com/EdersonTenorio/EdersonTenorio/output/snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me.
