@@ -24,8 +24,6 @@ continuously learning new technologies.
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center"><br>
   
 ## 🌐 Let's Connect
-  <a href="https://github.com/EdersonTenorio?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/github-repo-blue?logo=github"></a>
   <a href="https://linkedin.com/in/ederson-tenorio-890571220" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:edersontenorios@gmail.com">
@@ -37,6 +35,8 @@ continuously learning new technologies.
 </div>
 
 <div align="center"><br>
+  <a href="https://github.com/EdersonTenorio?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/github-repo-blue?logo=github"></a>
   <img src="https://komarev.com/ghpvc/?username=EdersonTenorio&color=blueviolet" alt="Profile Views">
 <a href="https://github.com/EdersonTenorio?tab=followers">
   <img src="https://img.shields.io/github/followers/EdersonTenorio?label=Followers&color=blueviolet&style=flat-square" alt="GitHub Followers"></a>
