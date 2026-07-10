@@ -30,7 +30,7 @@ continuously learning new technologies.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/b5vsbpqt97mv22vu8s611u1bf">
+  <a href="https://open.spotify.com/user/b5vsbpqt97mv22vu8s611u1bf?flow_ctx=4ffc1d96-467c-491c-ae21-333450c3e42e%3A1783669343">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
 
