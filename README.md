@@ -3,15 +3,11 @@
 Passionate about building scalable APIs, solving real-world problems and
 continuously learning new technologies.
 
----
-
 ## 👤 About Me
 - 💻 Backend Developer focused on Java, JavaScript, TypeScript and Python
 - 🎓 Systems Analysis and Development Graduate
 - 🛠️ Passionate about clean architecture and REST APIs
 - 📍 Brazil
-
----
 
 # 🎯 Goals
 - Become a Java Backend Specialist
@@ -19,7 +15,22 @@ continuously learning new technologies.
 - Contribute to Open Source
 - Build SaaS Projects
 
----
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center"><br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
+</div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center"><br>
   
@@ -37,64 +48,31 @@ continuously learning new technologies.
 <div align="center"><br>
   <a href="https://github.com/EdersonTenorio?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/github-repo-blue?logo=github"></a>
-  <img src="https://komarev.com/ghpvc/?username=EdersonTenorio&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=EdersonTenorio&color=blue" alt="Profile Views">
 <a href="https://github.com/EdersonTenorio?tab=followers">
-  <img src="https://img.shields.io/github/followers/EdersonTenorio?label=Followers&color=blueviolet&style=flat-square" alt="GitHub Followers"></a>
+  <img src="https://img.shields.io/github/followers/EdersonTenorio?label=Followers&color=blue&style=flat-square" alt="GitHub Followers"></a>
 </div>
-
----
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center"><br>
-
-## 💻 Tech Stack
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" title="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
-</div>
-
----
 
 <div align="center"><br>
   
 ## 📊 GitHub Analytics
 </div>
 
-<div align="center"><br>
-
-## 🚀 GitHub Stats
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=EdersonTenorio&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-## 💻 Most Used Languages
+src="https://github-stats-extended.vercel.app/api/?username=EdersonTenorio&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=GitHub+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=EdersonTenorio&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=GitHub+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonTenorio&layout=compact&theme=github_dark&hide_border=true"/>
-
-## 🔥 Contribution Streak
-<img height="180em"
-src="https://streak-stats.demolab.com?user=EdersonTenorio&theme=github-dark&hide_border=true"/>
-
-## 🏆 Trophies
-<img height="180em"
-src="https://github-profile-trophy.vercel.app/?username=EdersonTenorio&theme=algolia&no-frame=true&row=1&column=6"/>
-
-## 📈 Activity Graph
-<img height="200em"
-src="https://github-readme-activity-graph.vercel.app/graph?username=EdersonTenorio&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<div align=center><br>
+src="https://streak-stats.demolab.com?user=EdersonTenorio&theme=calm&rank_icon&hide_border=true"/>
+<img height="180em" 
+src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdersonTenorio&theme=calm&rank_icon"/>
+<img height="180em" 
+src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdersonTenorio&theme=calm&rank_icon"/>
+<img height="150em"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=EdersonTenorio&theme=calm&rank_icon&langs_count=4"/>
+<img height="150em"
+src="https://github-stats-extended.vercel.app/api/wakatime?username=EdersonTenorio&theme=calm&rank_icon&langs_count=6)](https://wakatime.com/@EdersonTenorio"/>
+<img height="180em" 
+src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdersonTenorio&theme=calm&rank_icon"/>
  <img src="https://raw.githubusercontent.com/EdersonTenorio/EdersonTenorio/output/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
